@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "Write My Voice",
+  "description": "Multilingual AI Voice Assistant and Screenplay Generator"
+}
