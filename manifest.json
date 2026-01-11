@@ -1,0 +1,17 @@
+
+{
+  "short_name": "Write My Voice",
+  "name": "Write My Voice Pro AI",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/8136/8136650.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a"
+}
